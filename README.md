@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://komarev.com/ghpvc/?username=NisargIO&color=blue)
-
+<a href="https://komarev.com/ghpvc/?username=NisargIO&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=NisargIO&color=blue">
+</a>
 -->
