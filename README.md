@@ -5,9 +5,7 @@
 <a href="https://spotify-currently.vercel.app/now-playing?open">
     <img src="https://spotify-currently.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-<a href="https://komarev.com/ghpvc/?username=NisargIO&color=blue">
-    <img src="https://komarev.com/ghpvc/?username=NisargIO&color=blue">
-</a>
+
 
 <!--
 **NisargIO/NisargIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<a href="https://komarev.com/ghpvc/?username=NisargIO&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=NisargIO&color=blue">
+</a>
 
 -->
