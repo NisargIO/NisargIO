@@ -2,7 +2,9 @@
 
 **Now Playing**
 
-<iframe src="https://spotify-hs1wi3ene-nisargpatel.vercel.app/">
+<a href="https://spotify-currently.vercel.app/now-playing?open">
+    <img src="https://spotify-currently.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
 
 
 <!--
