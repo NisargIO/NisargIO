@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about philosphy
 - 📫 How to reach me: me@nisarg.io
 - 😄 Pronouns: he/him
+
+
+Check out my website for more info! https://nisarg.io
