@@ -17,9 +17,7 @@ In my free time, I build keyboards, talk with friends on discord, and research r
 * Strong experience in financial strategies and recommendations to optimize revenue and workflow efficiency.
 * Capable of doing market research and building business models to create stable and efficient revenue streams.
 
-
-Here are some ideas to get you started:
-
+Github Questions:
 - 🔭 I’m currently working on Darsian (Record Label)
 - 🌱 I’m currently learning Next.js and Angular.js
 - 👯 I’m looking to collaborate on anything just hmu
