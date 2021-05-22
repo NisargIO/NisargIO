@@ -5,7 +5,7 @@ My name is Nisarg Patel.
 
 18 y/o developer, graphic/motion designer, and investor.
 
-Focused on building a diverse set of skills in a variety of areas to build effective I design full-stack applications that offer creative solutions to common tedious problems. I specialize in automation and Aritfical Intelligence.
+Focused on building a diverse set of skills in a variety of areas to build effective. I design full-stack applications that offer creative solutions to common tedious problems. I specialize in automation and Aritfical Intelligence.
 
 In my free time, I build keyboards, talk with friends on discord, and research random topics!
 
