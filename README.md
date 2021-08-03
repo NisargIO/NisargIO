@@ -21,7 +21,7 @@ Github Questions:
 - 🔭 I’m currently working on Darsian (Record Label)
 - 🌱 I’m currently learning Next.js and Angular.js
 - 👯 I’m looking to collaborate on anything just hmu
-- 💬 Ask me about philosphy
+- 💬 Ask me about philosophy
 - 📫 How to reach me: me@nisarg.io
 - 😄 Pronouns: he/him
 
