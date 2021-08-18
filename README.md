@@ -37,9 +37,3 @@ Check out my website for more info! https://nisarg.io
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/231643298282864640)](https://discord.com/users/231643298282864640)
 
-
-
-** Weekly Development Breakdown**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
