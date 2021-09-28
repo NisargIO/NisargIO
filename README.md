@@ -1,23 +1,22 @@
-### Hi there 👋
-
-
-My name is Nisarg Patel.
+# Nisarg Patel.
 
 18 y/o developer, graphic/motion designer, and investor.
 
-Focused on building a diverse set of skills in a variety of areas to build effective. I design full-stack applications that offer creative solutions to common tedious problems. I specialize in automation and Aritfical Intelligence.
+Focused on building a diverse set of skills to find effective and creative solutions for all my projects.
+
+I design full-stack applications built on simplistic, stable and rapid technologies that offer creative solutions to common tedious problems. I specialize in web development, SaaS platforms and automation.
 
 In my free time, I build keyboards, talk with friends on discord, and research random topics!
 
-**Technical Skills**
+### **Technical Skills**
 * Experience in the complete life cycle of project development: System Analysis, Design, Development, Testing and Maintenance, Resource estimation, Documentation, Implementation, and Customer Support.
-* Well versed with the concepts of database design, and Implementation of various web services/components using GCP, AWS, and Microsoft Azure.
+* Well versed in the concepts of database design, and implementation of various web services/components using GCP, AWS, and Microsoft Azure.
 * Strong interpersonal skills and an excellent team player.
-* Strong experience in commercial application development, coding, testing, and implementation
-* Strong experience in financial strategies and recommendations to optimize revenue and workflow efficiency.
+* Proficient in commercial application development, coding, testing, and implementation.
+* Experienced in financial strategies to optimize revenue and workflow efficiency.
 * Capable of doing market research and building business models to create stable and efficient revenue streams.
 
-Github Questions:
+### **Github Questions:**
 - 🔭 I’m currently working on Darsian (Record Label)
 - 🌱 I’m currently learning Next.js and Angular.js
 - 👯 I’m looking to collaborate on anything just hmu
