@@ -34,5 +34,5 @@ Check out my website for more info! https://nisarg.io
 
 **Discord Presence:**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/231643298282864640)](https://discord.com/users/231643298282864640)
+[![Discord Presence](https://lanyard.cnrad.dev/api/231643298282864640)](https://discord.com/users/231643298282864640)
 
