@@ -17,9 +17,8 @@ In my free time, I build keyboards, talk with friends on discord, and research r
 * Capable of doing market research and building business models to create stable and efficient revenue streams.
 
 ### **Github Questions:**
-- 🔭 I’m currently working on Darsian (Record Label)
-- 🌱 I’m currently learning Next.js and Angular.js
-- 👯 I’m looking to collaborate on anything just hmu
+- 🔭 I’m currently working on Dona
+- 🌱 I’m currently learning Deno
 - 💬 Ask me about philosophy
 - 📫 How to reach me: me@nisarg.io
 - 😄 Pronouns: he/him
