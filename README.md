@@ -1,6 +1,6 @@
 # Nisarg Patel.
 
-19 y/o developer, graphic/motion designer, and investor.
+20 y/o developer, graphic/motion designer, and investor.
 
 Focused on building a diverse set of skills to find effective and creative solutions for all my projects.
 
