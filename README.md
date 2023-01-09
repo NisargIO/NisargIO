@@ -18,21 +18,8 @@ In my free time, I enjoy building custom keyboards, researching dermatology, and
 ### **Mission Statement**
 My personal mission is to push the boundaries of technology and enhance user experience through innovative solutions. I strive to turn my frustrations and passions into creations that improve the way people work and interact with lives.
 
-Spacing
-
-### **Github Questions:**
-- 🔭 I’m currently working on Dona
-- 🌱 I’m currently learning Deno
-- 💬 Ask me about philosophy
-- 📫 How to reach me: me@nisarg.io
-- 😄 Pronouns: he/him
-
 
 Check out my website for more info! https://nisarg.io
-
-
-
-
 
 
 **Discord Presence:**
